@@ -1,0 +1,18 @@
+.loadMoreButton {
+  display: block;
+  margin: 40px auto;
+  padding: 10px 20px;
+  width: 150px;
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 25px;
+  cursor: pointer;
+  color: #ffffff;
+  background-color: #0000ff;
+  transition: background-color 0.3s ease;
+}
+
+.loadMoreButton:hover {
+  color: #0000ff;
+  background-color: #ffffff;
+}
